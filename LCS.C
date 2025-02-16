@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
+
 int LCS_table[20][20];
 
 // Function to print the LCS table with directions and values
